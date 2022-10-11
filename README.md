@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+This is my personal github profile. Most of the repos are repurposed from larger pieces of work, but show some interesting effects or just include code that I hope may be useful for others. 
+
+If you're working with conditional binary probabilities the PairProbabilityCopula repo might be of interest.
+
+- 💬 Ask me about multi-objective optimisation and surrogate modelling 
+
 <!--
 **John-H-B/John-H-B** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
