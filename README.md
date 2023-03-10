@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-This is my personal github profile. Most of the repos are repurposed from larger pieces of work, but show some interesting effects or just include code that I hope may be useful for others. These other pieces of work I published to our research github, or couldn't be published due to private data.  
+This is my personal github profile. Most of the repos are repurposed from larger pieces of work, but show some interesting effects or just include code that I hope may be useful for others. 
+**Please visit the main research homepage if you're here for details on the IS/ID project: https://github.com/ISIDLSHTM**
 
 If you're working with conditional binary probabilities the <i>PairProbabilityCopulas</i> repo might be of interest.
 
