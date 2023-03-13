@@ -3,11 +3,11 @@
 This is my personal github profile. Most of the repos are repurposed from larger pieces of work, but show some interesting effects or just include code that I hope may be useful for others. 
 
 
-**Please visit the main research homepage if you're here for details on the IS/ID project: https://github.com/ISIDLSHTM**
+**Please visit the main research homepage if you're here for details regarding the IS/ID project: https://github.com/ISIDLSHTM**
 
 If you're working with conditional binary probabilities the <i>PairProbabilityCopulas</i> repo might be of interest.
 
-- 💬 Ask me about multi-objective optimisation and surrogate modelling 
+- 💬 Ask me about multi-objective optimisation and surrogate modelling. 
 
 <!--
 **John-H-B/John-H-B** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
